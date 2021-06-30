@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginScreen</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome">Welcome!</string>
+    <string name="get_the_best_from_our_app">Get the Best From Our App</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+</resources>
